@@ -1,2 +1,2 @@
 # b-plus-tree
-Implementation of b+ tree golang
+Implementation of b+ tree in golang
